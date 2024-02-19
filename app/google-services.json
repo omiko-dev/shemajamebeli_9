@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635045659745",
+    "project_id": "test-3708a",
+    "storage_bucket": "test-3708a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635045659745:android:7067e6618162091e385620",
+        "android_client_info": {
+          "package_name": "com.example.shemajamebelin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yh2OelmoO4A0JlbZ774eiYOCha4eT74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
